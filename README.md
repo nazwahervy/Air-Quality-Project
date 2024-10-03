@@ -29,7 +29,7 @@ The dashboard, built using Streamlit, displays interactive visualizations of the
 ## How to Run the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/nazwahervy/Air-Quality-Analysis.git
+    git clone https://github.com/nazwahervy/Air-Quality-Project.git
     ```
 2. Install the necessary dependencies:
     ```bash
@@ -37,7 +37,7 @@ The dashboard, built using Streamlit, displays interactive visualizations of the
     ```
 3. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run dashboard.py
     ```
 
 ## Technologies Used
